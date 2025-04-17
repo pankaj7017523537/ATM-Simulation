@@ -1,1 +1,8 @@
-ECHO is on.
+*.class 
+*.jar 
+*.log 
+*.iml 
+*.DS_Store 
+.idea/ 
+target/ 
+bin/ 
